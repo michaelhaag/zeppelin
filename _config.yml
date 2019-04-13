@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Rochester Security Summit 2019"
-email: "devfest@gdg.org.ua"
+email: "info@rochissa.org"
 description: ""
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
